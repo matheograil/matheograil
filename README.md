@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mathéo</h1>
 <h3 align="center">Epitech Student</h3>
 
-- 🌱 I’m currently learning **Haskell, C & C++**
+- 🌱 I’m currently learning **C & C++**
 
 - 📫 How to reach me **contact@matheograil.info**
 
