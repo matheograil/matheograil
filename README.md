@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mathéo</h1>
 <h3 align="center">Epitech Student</h3>
 
-- 🌱 I’m currently working at [GR.APP & Co](https://gr.app)
-
 - 📫 How to reach me **contact@matheograil.info**
 
 <h3 align="left">Languages and Tools:</h3>
