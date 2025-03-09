@@ -1,4 +1,4 @@
-<img align="left" height="400" src="https://matheograil.info/_nuxt/qiton.C70YagVN.png"  />
+<img align="left" height="300" src="https://matheograil.info/_nuxt/qiton.C70YagVN.png"  />
 
 ###
 
